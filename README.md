@@ -1,6 +1,6 @@
 # Ex.No.10 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## NAME: DHAYANITHI S
+## NAME: WINAYAAG AMIT J
 ## Reg. No: 212222060305
 
 ## Aim:
